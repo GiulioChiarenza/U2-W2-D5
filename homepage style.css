@@ -1,0 +1,57 @@
+.navIcon {
+    width: 2rem;
+    height: 2rem;
+    
+}
+.icon{
+    color: #f8f9fa;
+}
+.iconSocial{
+    color: gray;
+}
+.kidsIcon{
+    max-width: 100%; 
+    height: auto;   
+    display: block;  
+    margin: 0 auto;
+}
+.generes form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    
+  }
+ 
+
+  .generes label {
+    /* display: block; */
+    margin-bottom: 8px;
+    font-size: 30px;
+    
+  }
+  .btnPosition{
+margin-left: 75%;
+  }
+  @media (min-width: 769px) {
+    .btnPosition {
+        margin-left: 85%;
+    }
+  }
+  .myBtnGroup{
+border-radius: 0px !important;
+color: gray;
+border-color: gray;
+width: 3rem;
+height: 2rem;
+  }
+  .footerText{
+    color: gray;
+    font-size: 10px;
+  }
+  .btnEdit{
+    background: none;
+    border: 1px solid #4c4c4c ;
+    color: #4c4c4c;
+    width: 6rem;
+    font-size: 13px;
+  }

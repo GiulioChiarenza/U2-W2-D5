@@ -1,0 +1,88 @@
+.linea {
+    height: 0.5px; 
+    background-color: #3f3f3f;
+    margin: 10px 0; 
+}
+/* .titolo {
+    font-size: 3.5rem;
+} */
+@media (min-width: 769px) {
+    .titolo {
+        font-size: 3.5rem;
+    }
+  }
+  .avatar {
+    height: 4rem;
+    width: 4rem;
+  }
+  .avatar img{
+    max-width: 100%; 
+            height: auto;   
+            display: block;  
+            margin: 0 auto; 
+  }
+  .myBtn {
+    color: #f8f9fa;
+    background-color: #5e5e5e ;
+    width: 80%;
+    height: 2rem;
+    border: none;
+    text-align: left;
+  }
+  .lingua form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+  }
+ 
+
+  .lingua label {
+    display: block;
+    margin-bottom: 8px;
+    
+  }
+  .btnAll {
+    color: #f8f9fa;
+    background-color: #303030 ;
+    /* width: auto;
+    height: 1.5rem;
+    border: none;
+    font-size: auto; */
+    font-weight: bold;
+    border-radius: none !important;
+  }
+  .btnEdit{
+    background: none;
+    border: 1px solid #4c4c4c ;
+    color: #4c4c4c;
+    width: 4rem;
+    font-size: 13px;
+  }
+  .btnSave{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa ;
+    color: #4c4c4c;
+    width: 4rem;
+    font-size: 13px;
+    font-weight: bold;
+    
+  }
+  .btnDlt{
+    width: 150px;
+  }
+  .myP {
+   
+    font-size: 19px ;
+  }
+  .checkText {
+    font-size: 10px !important;
+  }
+  .form-check-input {
+    border-radius: 0px !important;
+    background-color: transparent !important;
+    height: 1.5rem;
+    width: 1.5rem;
+    
+  }
+
+  
